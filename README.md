@@ -1,2 +1,2 @@
-# go-micro-exmaples
+# go-micro-examples
 go micro service examples
